@@ -1,0 +1,24 @@
+li{
+    margin-top: 30px;
+    list-style-type: none;
+}
+#vf{
+    display:inline-block;
+    margin-left: 400px;
+    position: absolute;
+    top: 45px;
+    width: 30%;
+}
+#x{
+    display:inline-block;
+    margin-left: 80%;
+    position: absolute;
+    top: 45px;
+    background-color: rgb(135, 135, 204);
+    color: white;
+    width: 50px;
+}
+#def{
+   margin-top: -430px;
+   margin-left: 130px;
+}
